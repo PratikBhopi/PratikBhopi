@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Pratik 👋</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dpratikbhopi%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="pratikbhopi" /> </p>
 
@@ -14,7 +13,7 @@ I'm a third-year Computer Engineering student with a strong passion for building
 
 💬 Ask me about React, Node.js, and anything related to web development.
 
-📫 How to reach me: [Your Email Address]
+📫 How to reach me: pratikbhopi@email.com
 
 ⚡ Fun fact: I believe Ctrl + S is the most important key combination.
 
