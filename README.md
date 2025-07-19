@@ -10,7 +10,7 @@ I'm a **third-year Computer Engineering student** passionate about building for 
 - 🌱 Currently learning full-stack development & system design  
 - 👯 Looking to collaborate on web projects and open source  
 - 🤔 Seeking help with advanced data structures & algorithms  
-- 💬 Ask me about **React, Node.js, MongoDB, MySQL**  
+- 💬 Ask me about **React, Node.js, MongoDB, MySQL, C/C++**  
 - 📫 Reach me: **pratikbhopi2516@gmail.com**
 
 ---
