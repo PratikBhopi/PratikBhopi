@@ -13,16 +13,14 @@ I'm a third-year Computer Engineering student with a strong passion for building
 
 💬 Ask me about React, Node.js, and anything related to web development.
 
-📫 How to reach me: pratikbhopi@email.com
-
-⚡ Fun fact: I believe Ctrl + S is the most important key combination.
+📫 How to reach me: pratikbhopi2516@gmail.com
 
 🛠️ My Tech Stack
 Here are a few technologies I've been working with recently:
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,java,html,css,js,react,nodejs,mongodb,mysql" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mongodb,mysql" />
 </a>
 </p>
 
